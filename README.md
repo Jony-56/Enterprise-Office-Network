@@ -55,7 +55,7 @@ The following were verified:
 
 ## Project Files
 - `Enterprise-Office-Network.pkt` — Cisco Packet Tracer project
-- `Project-Documentation.docx` — Detailed project documentation
+- `Enterprise_Office_Network_Project_Documentation.docx` — Detailed project documentation
 
 ## Disclaimer
 This project was designed and tested in Cisco Packet Tracer as a network simulation, not deployed on a physical enterprise network.
