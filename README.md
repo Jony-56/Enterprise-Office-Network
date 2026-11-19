@@ -4,6 +4,7 @@
 A simulated enterprise office network designed and implemented using Cisco Packet Tracer. The network separates departments using VLANs, provides automatic IP configuration through DHCP, and implements inter-VLAN routing and ACL-based security.
 
 ## Network Topology
+![Enterprise Office Network Topology](network-topology.png)
 - 1 Cisco 1941 Router
 - 4 Cisco 2960 Switches
 - 6 PCs
